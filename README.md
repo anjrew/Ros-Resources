@@ -36,6 +36,7 @@ A collectiob=n resources related to ROS and robotics
 - https://github.com/gazebosim/gazebo-classic
 - https://github.com/DukeRobotics/gzweb-rosssh
 - https://github.com/f1tenth-dev/simulator
+- https://github.com/osrf/gzweb
 
 ## Gazebo Sim
 
