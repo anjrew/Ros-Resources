@@ -38,6 +38,7 @@ A collectiob=n resources related to ROS and robotics
 - https://github.com/f1tenth-dev/simulator
 - https://github.com/osrf/gzweb
 - [Gazebo Plugins](https://github.com/osrf/gazebo_tutorials/blob/5413e61d9dfb47a2ce5880b4e7ab184608728713/ros_gzplugins/tutorial.md?plain=1#L569)
+- [Gazebo Model Plugin Example and Description](https://classic.gazebosim.org/tutorials?tut=plugins_model)
 
 ## Gazebo Sim
 
