@@ -25,6 +25,9 @@ A collectiob=n resources related to ROS and robotics
 - https://github.com/ami-iit/awesome-urdf
 - https://github.com/openrr/urdf-viz
 
+## Gazebo SDF
+- http://sdformat.org/spec
+
 ## Gazebo Classic
 
 - https://github.com/osrf/gazebo_tutorials
