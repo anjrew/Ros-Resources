@@ -1,6 +1,6 @@
 # 🤖 Ros-Resources
 
-A collectiob=n resources related to ROS and robotics
+A collection of resources related to ROS and robotics
 
 ## Projects
 
