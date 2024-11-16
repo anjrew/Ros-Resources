@@ -11,6 +11,9 @@ A collection of resources related to ROS and robotics
 - https://github.com/hdh7485/ackermann_vehicle
 - https://github.com/srmainwaring/steer_bot/tree/master/steer_bot_control
 
+### ROS 2
+ - https://github.com/RISE-Dependable-Transport-Systems/WayWiseR/tree/6c373c8c9d6c9dab3fe13148d1d19128b631f601
+
 ## ROS
 
 - https://github.com/adnanademovic/rosrust
